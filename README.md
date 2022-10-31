@@ -10,7 +10,7 @@ PID: A15446332
 
 ## Submitted Files: 
 
-- predictions_Made, predictions_Minute, predictions_Rate are files that predict whether the user cook the recipe, the time that the recipe consumes, and the rate of recipe that the user commented. 
+- predictions_Made, predictions_Minute, predictions_Rate are files that predict whether the user cook the recipe, the time that the recipe consumes, and the rate of recipe that the user commented. Cooking_Prediction.ipynb is the main source code files that implement these recommendations. 
 
 ****
 # Task 1
