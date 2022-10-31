@@ -1,4 +1,4 @@
-# Report for Assignment1 in course CSE 158
+# Cooking Prediction Kaggle
 
 Author: Zihan Qu
 
