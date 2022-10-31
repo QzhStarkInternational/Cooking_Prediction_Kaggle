@@ -8,6 +8,10 @@ username (team name) in Kaggle: 404
 
 PID: A15446332
 
+## Submitted Files: 
+
+- predictions_Made, predictions_Minute, predictions_Rate are files that predict whether the user cook the recipe, the time that the recipe consumes, and the rate of recipe that the user commented. 
+
 ****
 # Task 1
 
